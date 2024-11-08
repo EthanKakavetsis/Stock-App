@@ -1,8 +1,5 @@
 # Stock-App
 
-## Overview
-This project is a stock application that allows users to track stock prices, visualize trends, and manage portfolios.
-
 ## Features
 - Correlation Visualization
 - Sentiment Visualization
