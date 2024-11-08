@@ -4,9 +4,10 @@
 This project is a stock application that allows users to track stock prices, visualize trends, and manage portfolios.
 
 ## Features
-- Real-time stock data retrieval
+- Correlation Visualization
+- Sentiment Visualization
 - Historical data visualization
-- Portfolio tracking
+- Portfolio tracking and estimation 
 
 ## Setup Instructions
 1. Clone the repository.
