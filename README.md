@@ -11,3 +11,4 @@ This project is a stock application that allows users to track stock prices, vis
 ## Setup Instructions
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.# Stock-App
+3. Run main.py
